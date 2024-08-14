@@ -25,7 +25,6 @@ Responder qualquer outra opção não vai Funcionar, Clique em uma das Opções.
 
 bot = telebot.TeleBot(CHAVE_API)
 
-variavel = 'https://api.telegram.org/bot7398829816:AAFTRjs4Sird4neidLEMNewGqAoCm7zuu-w'
 
 #----------------------------------------------------------#
 @bot.message_handler(commands=["opcao6"])
