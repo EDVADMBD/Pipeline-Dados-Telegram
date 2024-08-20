@@ -31,6 +31,10 @@ Além disso ele e Projeto de conclusão do Curso Analista de dados pela EBAC.
 
 ## Links Relacionados 
 
+[Repositorio DataViz](https://github.com/Ricardo-Filgueiras/Dashboard-PowerBI)
+
+[Dashboad PowerBI](https://app.powerbi.com/view?r=eyJrIjoiYjVlYzIyZDktMDk5MC00NjY4LWFhY2UtYjg5ZDRiMWJmY2YwIiwidCI6ImVhNmIyNzRlLTE4MmYtNDc0Yy04YWMwLTQzOWM5ZTE1Yjg3ZSJ9)
+
 [Colab parte 1](https://colab.research.google.com/drive/1vvOWMZjFemcMAU44P0cZb2TTAgdbqxkq?usp=sharing)
 
 [Colab Parte 2](https://colab.research.google.com/drive/1GGP7tA5BCyfRvMQrHM3YyWmxS3OCbUsZ?usp=sharing) 
