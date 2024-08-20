@@ -27,7 +27,8 @@ Além disso ele e Projeto de conclusão do Curso Analista de dados pela EBAC.
 
 > Apenas um elemento chamado “Athena” conectado ao segundo bucket S3 na seção ETL.
 
-
+## Imagens
+![Profissao Analista de dados M42 Material de apoio arch](https://github.com/user-attachments/assets/10009d28-40c5-4a20-8b37-7443a70ee438)
 
 ## Links Relacionados 
 
